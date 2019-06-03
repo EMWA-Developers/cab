@@ -1,0 +1,28 @@
+{
+  "name": "cabemery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.4",
+    "firebase": "^5.8.1",
+    "lazysizes": "^4.1.5",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "vue": "^2.5.21",
+    "vue-carousel": "^0.17.0",
+    "vue-router": "^3.0.1",
+    "vue-youtube-embed": "^2.2.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
