@@ -1,0 +1,147 @@
+
+/*
+  * Forma DJR Deck
+  */
+
+@font-face {
+  font-family: 'Forma DJR Deck';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRDeck-Regular.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRDeck-Regular.woff') format('woff'),
+  url('../../static/fonts/FormaDJRDeck-Regular.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRDeck-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Deck';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRDeck-Bold.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRDeck-Bold.woff') format('woff'),
+  url('../../static/fonts/FormaDJRDeck-Bold.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRDeck-Bold.ttf') format('truetype');
+}
+
+/*
+* Forma DJR Micro
+*/
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 200;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-ExtraLight.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLight.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLight.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 200;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-ExtraLightItalic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLightItalic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLightItalic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-Light.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Light.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Light.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 300;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-LightItalic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-LightItalic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-LightItalic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-Regular.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Regular.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Regular.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-Italic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Italic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Italic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-Medium.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Medium.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Medium.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 500;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-MediumItalic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-MediumItalic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-MediumItalic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-Bold.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Bold.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Bold.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 700;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-BoldItalic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-BoldItalic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-BoldItalic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 900;
+  font-style: normal;
+  src: url('../../static/fonts/FormaDJRMicro-Black.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-Black.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-Black.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Forma DJR Micro';
+  font-weight: 900;
+  font-style: italic;
+  src: url('../../static/fonts/FormaDJRMicro-BlackItalic.woff2') format('woff2'),
+  url('../../static/fonts/FormaDJRMicro-BlackItalic.woff') format('woff'),
+  url('../../static/fonts/FormaDJRMicro-BlackItalic.eot') format('embedded-opentype'),
+  url('../../static/fonts/FormaDJRMicro-BlackItalic.ttf') format('truetype');
+}
